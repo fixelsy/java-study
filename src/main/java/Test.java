@@ -84,6 +84,8 @@ public class Test {
         Stream<String> stream = list.stream();
         stream.forEach(System.out::print);
 
+        System.out.println("mac test");
+
 
     }
 
