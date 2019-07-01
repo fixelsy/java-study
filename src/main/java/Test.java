@@ -85,6 +85,7 @@ public class Test {
         stream.forEach(System.out::print);
 
         System.out.println("mac test");
+        System.out.println("window test");
 
 
     }
